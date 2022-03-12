@@ -20,6 +20,12 @@ function cargarEventListener() {
     articulosCarrito = []; 
     limpiarHTMl();
   });
+
+  // Cuando el documento este listo
+  document.addEventListener('DOMContentLoaded', () => {
+     articulosCarrito = JSON.parse(localStorage.getItem('carrito')) || []; 
+    carritoHTML();
+  })
 }
 
 // Funciones
@@ -30,6 +36,7 @@ function agregarcurso(e) {
     const cursoSeleccionado = e.target.parentElement.parentElement;
     leerDatosCurso(cursoSeleccionado);
   }
+   
 }
 
 function eliminarCurso(e) {
@@ -102,8 +109,13 @@ function carritoHTML() {
     // Agregar al html
     contenedorCarrito.appendChild(row);
   });
+
+  sicronizarLocalStorage();
 }
 
+function sicronizarLocalStorage() {
+    localStorage.setItem('carrito', JSON.stringify(articulosCarrito));
+}
 // Funcion para limpiar html
 function limpiarHTMl() {
   // Forma Lenta
