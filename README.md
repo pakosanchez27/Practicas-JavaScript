@@ -1,27 +1,29 @@
 # Curso de JavaScript Moderno <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" />
 
-En este repositorio subire las practicas realizadas en este curso con respecto al lenjuage de JavaScript
+En este repositorio subire las practicas realizadas en este curso con respecto al lenjuage de JavaScript <br>
 
-## Practica Carrito
+En este curso se aplica lo siguiente: 
+* Prototypes
+* Delegation
+* Classes
+* Ajax
+* Promises
+* Generadores
+* Orientado a Objetos
+* Fetch API
+* Async Await
+* Async JS
+* REST APIs
+* También el curso incluye Node.js, Express, Mongodb, React.
 
-En esta practica se implementam temas basicos de javaScript como son:
+# Link a los Deploys de los proyectos
 
-* Variables
-* Estructuras de Control
-* Objetos
-* Dom
-* Eventos
+* [Practica Carrito](https://carritostorage.netlify.app)
+* [Control de Citas](https://citasveterinaria07.netlify.app)
 
-Puesdes consultar la pagina en este [Enlace](https://carritostorage.netlify.app) <br>
-Puedes consultar el codigo en este [Enlace](https://github.com/pakosanchez27/Practicas-JavaScript/tree/master/Carrito)
 
-## Practica Control de Citas
 
-En esta practica de administrador de citas para una veterinaria se implementan temas como: 
 
-* POO (JavaSvript)
-* Modulos (Para una mejor estructura)
-* Todos los temas de la practica anterior
 
-Puesdes consultar la pagina en este [Enlace](https://citasveterinaria07.netlify.app) <br>
-Puedes consultar el codigo en este [Enlace](https://github.com/pakosanchez27/Practicas-JavaScript/tree/master/Control-Citas)
+
+
