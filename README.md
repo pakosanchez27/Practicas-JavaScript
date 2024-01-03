@@ -22,6 +22,11 @@ En este curso se aplica lo siguiente:
 * [Control de Citas](https://citasveterinaria07.netlify.app)
 * [Practica CRM](https://crmjavas.netlify.app)
 * [App Clima](https://climajavas.netlify.app)
+* [Similador de Tweets](https://tweetlocal.netlify.app/)
+* [Buscador de Recetas](https://buscadorecetasjs.netlify.app/)
+* [Cotizador de Seguros](https://cotizadorproto.netlify.app/)
+* [Simulador de Email](https://simuladoremails1.netlify.app/)
+* [Buscador](https://buscadorjsp.netlify.app/)
 
 
 
