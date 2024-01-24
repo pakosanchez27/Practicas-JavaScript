@@ -27,6 +27,7 @@ En este curso se aplica lo siguiente:
 * [Cotizador de Seguros](https://cotizadorproto.netlify.app/)
 * [Simulador de Email](https://simuladoremails1.netlify.app/)
 * [Buscador](https://buscadorjsp.netlify.app/)
+* [Buscador de Imagenes](https://buscadordepagianas.netlify.app/)
 
 
 
